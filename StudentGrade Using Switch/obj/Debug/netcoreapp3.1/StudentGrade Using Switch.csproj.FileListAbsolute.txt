@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\bin\Debug\netcoreapp3.1\StudentGrade Using Switch.exe
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\bin\Debug\netcoreapp3.1\StudentGrade Using Switch.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\bin\Debug\netcoreapp3.1\StudentGrade Using Switch.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\bin\Debug\netcoreapp3.1\StudentGrade Using Switch.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\bin\Debug\netcoreapp3.1\StudentGrade Using Switch.dll
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\bin\Debug\netcoreapp3.1\StudentGrade Using Switch.pdb
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\obj\Debug\netcoreapp3.1\StudentGrade Using Switch.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\obj\Debug\netcoreapp3.1\StudentGrade Using Switch.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\obj\Debug\netcoreapp3.1\StudentGrade Using Switch.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\obj\Debug\netcoreapp3.1\StudentGrade Using Switch.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\obj\Debug\netcoreapp3.1\StudentGrade Using Switch.dll
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\obj\Debug\netcoreapp3.1\StudentGrade Using Switch.pdb
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade Using Switch\StudentGrade Using Switch\obj\Debug\netcoreapp3.1\StudentGrade Using Switch.genruntimeconfig.cache
